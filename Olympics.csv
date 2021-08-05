@@ -1,0 +1,116 @@
+Gender,Event,venues,Year,Medal,Name,Country,Time
+M,100M Men,Sydney,2000,G,Maurice GREENE,USA,9.87
+M,100M Men,Sydney,2000,S,Ato BOLDON,TTO,9.99
+M,100M Men,Sydney,2000,B,Obadele THOMPSON,BAR,10.04
+M,110M Hurdles Men,Sydney,2000,G,Anier GARCIA,CUB,13
+M,110M Hurdles Men,Sydney,2000,S,Terrence TRAMMELL,USA,13.16
+M,110M Hurdles Men,Sydney,2000,B,Mark CREAR,USA,13.22
+M,200M Men,Sydney,2000,G,Kostas KENTERIS,GRE,20.09
+M,200M Men,Sydney,2000,S,Darren CAMPBELL,GBR,20.14
+M,200M Men,Sydney,2000,B,Ato BOLDON,TTO,20.2
+M,400M Men,Sydney,2000,G,Michael JOHNSON,USA,43.84
+M,400M Men,Sydney,2000,S,Alvin HARRISON,USA,44.4
+M,400M Men,Sydney,2000,B,Greg HAUGHTON,JAM,44.7
+M,4X100M Relay Men,Sydney,2000,G,null,USA,37.61
+M,4X100M Relay Men,Sydney,2000,S,null,BRA,37.9
+M,4X100M Relay Men,Sydney,2000,B,null,CUB,38.04
+M,4X400M Relay Men,Sydney,2000,G,null,NGR,02:58.7
+M,4X400M Relay Men,Sydney,2000,S,null,JAM,02:58.8
+M,4X400M Relay Men,Sydney,2000,B,null,BAH,02:59.2
+M,5000M Men,Sydney,2000,G,Millon WOLDE,ETH,13:35.5
+M,5000M Men,Sydney,2000,S,Ali SAIDI-SIEF,ALG,13:36.2
+M,5000M Men,Sydney,2000,B,Brahim LAHLAFI,MAR,13:36.5
+M,Marathon Men,Sydney,2000,G,Gezahegne ABERA,ETH,02h10:11
+M,Marathon Men,Sydney,2000,S,Erick WAINAINA,KEN,02h10:31
+M,Marathon Men,Sydney,2000,B,Tesfaye TOLA,ETH,02h11:10
+M,100M Men,Athens,2004,G,Justin GATLIN,USA,9.85
+M,100M Men,Athens,2004,S,Francis OBIKWELU,POR,9.86
+M,100M Men,Athens,2004,B,Maurice GREENE,USA,9.87
+M,110M Hurdles Men,Athens,2004,G,Xiang LIU,CHN,12.91
+M,110M Hurdles Men,Athens,2004,S,Terrence TRAMMELL,USA,13.18
+M,110M Hurdles Men,Athens,2004,B,Anier GARCIA,CUB,13.2
+M,200M Men,Athens,2004,G,Shawn CRAWFORD,USA,19.79
+M,200M Men,Athens,2004,S,Bernard WILLIAMS III,USA,20.01
+M,200M Men,Athens,2004,B,Justin GATLIN,USA,20.03
+M,400M Men,Athens,2004,G,Jeremy WARINER,USA,44
+M,400M Men,Athens,2004,S,Otis HARRIS,USA,44.16
+M,400M Men,Athens,2004,B,Derrick BREW,USA,44.42
+M,4X100M Relay Men,Athens,2004,G,null,GBR,38.07
+M,4X100M Relay Men,Athens,2004,S,null,USA,38.08
+M,4X100M Relay Men,Athens,2004,B,null,NGR,38.23
+M,4X400M Relay Men,Athens,2004,G,null,USA,02:55.9
+M,4X400M Relay Men,Athens,2004,S,null,AUS,03:00.6
+M,4X400M Relay Men,Athens,2004,B,null,NGR,03:00.9
+M,5000M Men,Athens,2004,G,Hicham EL GUERROUJ,MAR,13:14.4
+M,5000M Men,Athens,2004,S,Kenenisa BEKELE,ETH,13:14.6
+M,5000M Men,Athens,2004,B,Eliud Kipchoge ROTICH,KEN,13:15.1
+M,Marathon Men,Athens,2004,G,Stefano BALDINI,ITA,2h10:55
+M,Marathon Men,Athens,2004,S,Mebrahtom KEFLEZIGHI,USA,2h11:29
+M,Marathon Men,Athens,2004,B,Vanderlei DE LIMA,BRA,2h12:11
+M,100M Men,Beijing,2008,G,Usain BOLT,JAM,9.69
+M,100M Men,Beijing,2008,S,Richard THOMPSON,TTO,9.89
+M,100M Men,Beijing,2008,B,Walter DIX,USA,9.91
+M,110M Hurdles Men,Beijing,2008,G,Dayron ROBLES,CUB,12.93
+M,110M Hurdles Men,Beijing,2008,S,David PAYNE,USA,13.17
+M,110M Hurdles Men,Beijing,2008,B,David OLIVER,USA,13.18
+M,200M Men,Beijing,2008,G,Usain BOLT,JAM,19.3
+M,200M Men,Beijing,2008,S,Shawn CRAWFORD,USA,19.96
+M,200M Men,Beijing,2008,B,Walter DIX,USA,19.98
+M,400M Men,Beijing,2008,G,Lashawn MERRITT,USA,43.75
+M,400M Men,Beijing,2008,S,Jeremy WARINER,USA,44.74
+M,400M Men,Beijing,2008,B,David NEVILLE,USA,44.8
+M,4X100M Relay Men,Beijing,2008,S,null,TTO,38.06
+M,4X100M Relay Men,Beijing,2008,B,null,JPN,38.15
+M,4X400M Relay Men,Beijing,2008,G,null,USA,02:55.4
+M,4X400M Relay Men,Beijing,2008,S,null,BAH,02:58.0
+M,5000M Men,Beijing,2008,G,Kenenisa BEKELE,ETH,12:57.8
+M,5000M Men,Beijing,2008,S,Eliud Kipchoge ROTICH,KEN,13:02.8
+M,5000M Men,Beijing,2008,B,Edwin Cheruiyot SOI,KEN,13:06.2
+M,Marathon Men,Beijing,2008,G,Samuel Kamau WANJIRU,KEN,2h06:32
+M,Marathon Men,Beijing,2008,S,Jaouad GHARIB,MAR,2h07:16
+M,Marathon Men,Beijing,2008,B,Tsegay KEBEDE,ETH,2h10:00
+M,100M Men,London,2012,G,Usain BOLT,JAM,9.63
+M,100M Men,London,2012,S,Yohan BLAKE,JAM,9.75
+M,100M Men,London,2012,B,Justin GATLIN,USA,9.79
+M,110M Hurdles Men,London,2012,G,Aries MERRITT,USA,12.92
+M,110M Hurdles Men,London,2012,S,Jason RICHARDSON,USA,13.04
+M,110M Hurdles Men,London,2012,B,Hansle PARCHMENT,JAM,13.12
+M,200M Men,London,2012,G,Usain BOLT,JAM,19.32
+M,200M Men,London,2012,S,Yohan BLAKE,JAM,19.44
+M,200M Men,London,2012,B,Warren WEIR,JAM,19.84
+M,400M Men,London,2012,G,Kirani JAMES,GRN,43.94
+M,400M Men,London,2012,S,Luguelin SANTOS,DOM,44.46
+M,400M Men,London,2012,B,Lalonde GORDON,TTO,44.52
+M,4X100M Relay Men,London,2012,G,null,JAM,36.84
+M,4X100M Relay Men,London,2012,S,null,TTO,38.12
+M,4X100M Relay Men,London,2012,B,null,FRA,38.16
+M,4X400M Relay Men,London,2012,G,null,BAH,02:56.7
+M,4X400M Relay Men,London,2012,S,null,USA,02:57.1
+M,4X400M Relay Men,London,2012,B,null,TTO,02:59.4
+M,5000M Men,London,2012,G,Mohamed FARAH,GBR,13:41.7
+M,5000M Men,London,2012,S,Dejen GEBREMESKEL,ETH,13:42.0
+M,5000M Men,London,2012,B,Thomas Pkemei LONGOSIWA,KEN,13:42.4
+M,Marathon Men,London,2012,G,Stephen KIPROTICH,UGA,2:08:01
+M,Marathon Men,London,2012,S,Abel KIRUI,KEN,2:08:27
+M,Marathon Men,London,2012,B,Wilson Kipsang KIPROTICH,KEN,2:09:37
+M,100M Men,Rio,2016,G,Usain BOLT,JAM,9.81
+M,100M Men,Rio,2016,S,Justin GATLIN,USA,9.89
+M,100M Men,Rio,2016,B,Andre DE GRASSE,CAN,9.91
+M,110M Hurdles Men,Rio,2016,G,Omar MCLEOD,JAM,13.05
+M,110M Hurdles Men,Rio,2016,S,Orlando ORTEGA,ESP,13.17
+M,110M Hurdles Men,Rio,2016,B,Dimitri BASCOU,FRA,13.24
+M,200M Men,Rio,2016,G,Usain BOLT,JAM,19.78
+M,200M Men,Rio,2016,S,Andre DE GRASSE,CAN,20.02
+M,200M Men,Rio,2016,B,Christophe LEMAITRE,FRA,20.12
+M,400M Men,Rio,2016,G,Wayde VAN NIEKERK,RSA,43.03
+M,400M Men,Rio,2016,S,Kirani JAMES,GRN,43.76
+M,400M Men,Rio,2016,B,Lashawn MERRITT,USA,43.85
+M,4X100M Relay Men,Rio,2016,G,null,JAM,37.27
+M,4X100M Relay Men,Rio,2016,S,null,JPN,37.6
+M,4X100M Relay Men,Rio,2016,B,null,CAN,37.64
+M,5000M Men,Rio,2016,G,Mohamed FARAH,GBR,13:03.3
+M,5000M Men,Rio,2016,S,Paul Kipkemoi CHELIMO,USA,13:03.9
+M,5000M Men,Rio,2016,B,Hagos GEBRHIWET,ETH,13:04.3
+M,Marathon Men,Rio,2016,G,Eliud Kipchoge ROTICH,KEN,2:08:44
+M,Marathon Men,Rio,2016,S,Feyisa LILESA,ETH,2:09:54
+M,Marathon Men,Rio,2016,B,Galen RUPP,USA,2:10:05
